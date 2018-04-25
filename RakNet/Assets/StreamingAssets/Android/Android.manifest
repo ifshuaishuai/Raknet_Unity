@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1435792538
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: temp/cube.assetbundle
+      Dependencies: {}
